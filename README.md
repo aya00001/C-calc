@@ -3,4 +3,4 @@ adds, subtracts, divides, multiplies, more operations to come
 
 dependencies
 - GCC compiler
-- GMP (GNU Multiple Precision Arithmetic Library)
+- MPFR (GNU Multiple Precision Arithmetic Library)

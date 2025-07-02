@@ -1,2 +1,2 @@
 calc: calc.c
-	@gcc calc.c -o calc -lgmp
+	@gcc calc.c -o calc -lmpfr
